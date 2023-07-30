@@ -1,0 +1,36 @@
+@font-face {
+    font-family: graffity;
+    src: url(Cheveuxdange.ttf);
+  }
+body {
+    background-color:lightgrey;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+main {
+    background-color:lightgrey;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    max-height: 100%;
+    width: 85vw;
+    padding: 1px;
+}
+
+
+h1 { 
+    font-family: graffity;
+    font-size: 7vw;
+}
+
+main#about h1 { 
+    padding-top: 1vw;
+    font-family: graffity;
+    font-size: 3vw;
+}
+.hidden{
+    visibility: hidden;
+}
