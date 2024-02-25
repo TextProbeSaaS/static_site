@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TextProbe</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on TextProbe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Feb 2024 05:02:05 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>High Frequency Polling Summary</title>
+      <link>http://localhost:1313/posts/high-frequency-polling-summary/</link>
+      <pubDate>Sun, 25 Feb 2024 05:02:05 -0500</pubDate>
+      <guid>http://localhost:1313/posts/high-frequency-polling-summary/</guid>
+      <description>Summary This study explores the potential of online surveys, even those with skewed demographics, to accurately measure public opinion. The authors demonstrate their method by analyzing an Xbox poll of US voters in the 2012 election. By applying statistical adjustments, their estimates align closely with actual results, suggesting non-representative polls can be surprisingly accurate, offering advantages like speed, cost, and real-time tracking of public sentiment.&#xA;Key Points The paper is about using non-representative polling, such as opt-in online surveys, to accurately and continuously track public opinion, with proper statistical adjustment.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 22 Feb 2024 14:50:02 -0500</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Welcome to TextProbe: Your Ultimate Solution for Text Minning Our Mission TextProbe&amp;rsquo;s is a SaaS maintained by Edwardes LLC to advanced text mining capabilities, ensuring that businesses of all sizes can seamlessly leverage state-of-the-art tools for natural language processing (NLP) without requiring extensive in-house expertise. We believe in enabling every organization, regardless of scale, to unlock the potential of AI-driven text analysis for innovation and growth.&#xA;What Sets Us Apart SMB-Oriented Development Expertise: Our team is composed of individuals with extensive experience in developing tools tailored specifically for small and medium-sized businesses, addressing the unique challenges faced by SMBs.</description>
+    </item>
+  </channel>
+</rss>

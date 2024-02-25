@@ -18,6 +18,7 @@ main {
     max-height: 100%;
     width: 85vw;
     padding: 1px;
+    margin: 2vh 0 2vh 0;
 }
 
 
@@ -26,11 +27,18 @@ h1 {
     font-size: 7vw;
 }
 
-main#about h1 { 
+main#page h1 { 
     padding-top: 1vw;
     font-family: graffity;
     font-size: 3vw;
 }
 .hidden{
     visibility: hidden;
+}
+
+nav li{
+    list-style: none;
+}
+nav a {
+    padding: 0 5px;
 }
