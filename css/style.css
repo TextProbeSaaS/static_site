@@ -42,3 +42,15 @@ nav li{
 nav a {
     padding: 0 5px;
 }
+
+form {
+    display: flex;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+form * {
+    padding: 1vh;
+}

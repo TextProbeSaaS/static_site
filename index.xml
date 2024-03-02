@@ -29,5 +29,12 @@
       <guid>http://localhost:1313/about/</guid>
       <description>Welcome to TextProbe: Your Ultimate Solution for Text Minning Our Mission TextProbe&amp;rsquo;s is a SaaS maintained by Edwardes LLC to advanced text mining capabilities, ensuring that businesses of all sizes can seamlessly leverage state-of-the-art tools for natural language processing (NLP) without requiring extensive in-house expertise. We believe in enabling every organization, regardless of scale, to unlock the potential of AI-driven text analysis for innovation and growth.&#xA;What Sets Us Apart SMB-Oriented Development Expertise: Our team is composed of individuals with extensive experience in developing tools tailored specifically for small and medium-sized businesses, addressing the unique challenges faced by SMBs.</description>
     </item>
+    <item>
+      <title>Get in Touch</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Thu, 22 Feb 2024 14:50:02 -0500</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>Curious about how text mining can benefit your business? Our team is here to help, whether you&amp;rsquo;re just getting started or need expert assistance with TextProbe. We can guide you through the process, answer your questions, and show you how to unlock the power of text data.&#xA;We&amp;rsquo;re passionate about helping businesses succeed. Let&amp;rsquo;s collaborate and use proven methods to improve your text-based campaigns and drive results. We look forward to hearing from you!</description>
+    </item>
   </channel>
 </rss>
