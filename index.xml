@@ -6,15 +6,8 @@
     <description>Recent content on TextProbe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Feb 2024 11:38:40 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 25 Feb 2024 05:02:05 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Ops as a Job</title>
-      <link>http://localhost:1313/posts/job-title-ops/</link>
-      <pubDate>Tue, 27 Feb 2024 11:38:40 -0500</pubDate>
-      <guid>http://localhost:1313/posts/job-title-ops/</guid>
-      <description>What is DevOps In the current market, various operations (ops) positions are available, but the most prevalent one, especially with the rise of Agile, is DevOps. Originally defined as &amp;ldquo;Developers Do Operations,&amp;rdquo; this concept is reflected in tools like Terraform and Bicep. These tools aim to eliminate handoffs and anti-patterns by allowing developers to use templates and budgets, enabling them to create what they need without dependencies on elements Agile seeks to remove.</description>
-    </item>
     <item>
       <title>High Frequency Polling Summary</title>
       <link>http://localhost:1313/posts/high-frequency-polling-summary/</link>
