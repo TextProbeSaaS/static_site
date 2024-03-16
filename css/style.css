@@ -54,3 +54,16 @@ form {
 form * {
     padding: 1vh;
 }
+
+.post-list{
+    width: 45vw;
+    min-width: 390px;
+}
+
+.center-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
