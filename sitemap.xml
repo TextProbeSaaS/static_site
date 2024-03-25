@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/high-frequency-polling-summary/</loc>
+    <loc>https://textprobe.io/posts/high-frequency-polling-summary/</loc>
     <lastmod>2024-02-25T05:02:05-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://textprobe.io/posts/</loc>
     <lastmod>2024-02-25T05:02:05-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://textprobe.io/</loc>
     <lastmod>2024-02-25T05:02:05-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://textprobe.io/about/</loc>
     <lastmod>2024-02-22T14:50:02-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://textprobe.io/contact/</loc>
     <lastmod>2024-02-22T14:50:02-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://textprobe.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://textprobe.io/tags/</loc>
   </url>
 </urlset>
