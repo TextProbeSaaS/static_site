@@ -6,14 +6,21 @@
     <description>Recent content in Posts on TextProbe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Feb 2024 05:02:05 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 18:38:04 -0400</lastBuildDate>
     <atom:link href="https://textprobe.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>High Frequency Polling Summary</title>
-      <link>https://textprobe.io/posts/high-frequency-polling-summary/</link>
+      <title>Opened Quetion Powered by Natural Language Processing</title>
+      <link>https://textprobe.io/posts/opened-and-nlpu/</link>
+      <pubDate>Thu, 28 Mar 2024 18:38:04 -0400</pubDate>
+      <guid>https://textprobe.io/posts/opened-and-nlpu/</guid>
+      <description>Unleashing the Power of Open-Ended Questions in Surveys: A TextProbe Perspective In the realm of survey research, the debate between open-ended and close-ended questions has long been a topic of discussion. Over the years, numerous studies have highlighted the richness of responses garnered from open-ended questions, contrasting them with the more constrained nature of close-ended queries. Authors such as Comley (1996), Gonier (1999), and Kwak and Radler (1999), among others, have underscored the depth and spontaneity of insights derived from open-ended surveys conducted through email and web platforms.</description>
+    </item>
+    <item>
+      <title>What Is High Frequency Polling</title>
+      <link>https://textprobe.io/posts/high-frequency-polling/</link>
       <pubDate>Sun, 25 Feb 2024 05:02:05 -0500</pubDate>
-      <guid>https://textprobe.io/posts/high-frequency-polling-summary/</guid>
-      <description>Summary This study explores the potential of online surveys, even those with skewed demographics, to accurately measure public opinion. The authors demonstrate their method by analyzing an Xbox poll of US voters in the 2012 election. By applying statistical adjustments, their estimates align closely with actual results, suggesting non-representative polls can be surprisingly accurate, offering advantages like speed, cost, and real-time tracking of public sentiment.&#xA;Key Points The paper is about using non-representative polling, such as opt-in online surveys, to accurately and continuously track public opinion, with proper statistical adjustment.</description>
+      <guid>https://textprobe.io/posts/high-frequency-polling/</guid>
+      <description>Unlocking Public Opinion Faster: The Science Behind TextProbe Have you ever wondered how quickly public opinion can shift? Traditionally, gauging these changes relied on surveys – a process known for being slow and expensive. But what if there was a way to get real-time insights without sacrificing accuracy?&#xA;This is the core idea behind TextProbe, a method inspired by groundbreaking research published in the book Political Communication in Real Time. Here&amp;rsquo;s a glimpse into the science that makes TextProbe tick:</description>
     </item>
   </channel>
 </rss>

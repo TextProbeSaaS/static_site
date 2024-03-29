@@ -6,21 +6,35 @@
     <description>Recent content on TextProbe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Feb 2024 05:02:05 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 18:38:04 -0400</lastBuildDate>
     <atom:link href="https://textprobe.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>High Frequency Polling Summary</title>
-      <link>https://textprobe.io/posts/high-frequency-polling-summary/</link>
+      <title>Opened Quetion Powered by Natural Language Processing</title>
+      <link>https://textprobe.io/posts/opened-and-nlpu/</link>
+      <pubDate>Thu, 28 Mar 2024 18:38:04 -0400</pubDate>
+      <guid>https://textprobe.io/posts/opened-and-nlpu/</guid>
+      <description>Unleashing the Power of Open-Ended Questions in Surveys: A TextProbe Perspective In the realm of survey research, the debate between open-ended and close-ended questions has long been a topic of discussion. Over the years, numerous studies have highlighted the richness of responses garnered from open-ended questions, contrasting them with the more constrained nature of close-ended queries. Authors such as Comley (1996), Gonier (1999), and Kwak and Radler (1999), among others, have underscored the depth and spontaneity of insights derived from open-ended surveys conducted through email and web platforms.</description>
+    </item>
+    <item>
+      <title>What Is High Frequency Polling</title>
+      <link>https://textprobe.io/posts/high-frequency-polling/</link>
       <pubDate>Sun, 25 Feb 2024 05:02:05 -0500</pubDate>
-      <guid>https://textprobe.io/posts/high-frequency-polling-summary/</guid>
-      <description>Summary This study explores the potential of online surveys, even those with skewed demographics, to accurately measure public opinion. The authors demonstrate their method by analyzing an Xbox poll of US voters in the 2012 election. By applying statistical adjustments, their estimates align closely with actual results, suggesting non-representative polls can be surprisingly accurate, offering advantages like speed, cost, and real-time tracking of public sentiment.&#xA;Key Points The paper is about using non-representative polling, such as opt-in online surveys, to accurately and continuously track public opinion, with proper statistical adjustment.</description>
+      <guid>https://textprobe.io/posts/high-frequency-polling/</guid>
+      <description>Unlocking Public Opinion Faster: The Science Behind TextProbe Have you ever wondered how quickly public opinion can shift? Traditionally, gauging these changes relied on surveys – a process known for being slow and expensive. But what if there was a way to get real-time insights without sacrificing accuracy?&#xA;This is the core idea behind TextProbe, a method inspired by groundbreaking research published in the book Political Communication in Real Time. Here&amp;rsquo;s a glimpse into the science that makes TextProbe tick:</description>
     </item>
     <item>
       <title></title>
       <link>https://textprobe.io/about/</link>
       <pubDate>Thu, 22 Feb 2024 14:50:02 -0500</pubDate>
       <guid>https://textprobe.io/about/</guid>
-      <description>Welcome to TextProbe: Your Ultimate Solution for Understanding Your Customers Our Mission TextProbe is a SaaS platform designed to assist marketers and businesses in gaining deeper insights into their customers through advanced text mining capabilities. Our goal is to empower organizations of all sizes to harness the power of cutting-edge tools for natural language processing (NLP) and natural language understanding (NLU) without the need for extensive in-house expertise. We believe in democratizing AI-driven text analysis to foster innovation and drive growth for every business.</description>
+      <description>Meet Robert Edwardes: Your Data Analytics Partner With a proven track record in AI and machine learning, Robert Edwardes is your go-to expert for unlocking business insights. As the founder of TextProbe, Robert pioneers SMS solutions, blending AI and GIS for precision market research. From campaign management to data-driven strategies, Robert&amp;rsquo;s expertise spans nonprofits to political campaigns. With certifications in Azure and Scrum Master, trust Robert to elevate your analytics game.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://textprobe.io/services/</link>
+      <pubDate>Thu, 22 Feb 2024 14:50:02 -0500</pubDate>
+      <guid>https://textprobe.io/services/</guid>
+      <description>Service Page: High Frequency Data Collection and Modeling At TextProbe, we specialize in high-frequency data collection and advanced modeling techniques to provide unparalleled insights into public sentiment and demographic understanding. Through innovative approaches and cutting-edge technology, we empower organizations to make informed decisions based on real-time data.&#xA;High Frequency Data Collection Using Mobile Phones for High-Frequency Data Collection: Mobile phones have revolutionized data collection, allowing for rapid and frequent surveys. We leverage mobile technology to gather real-time feedback from diverse demographics, enabling high-frequency monitoring of public opinion and trends.</description>
     </item>
     <item>
       <title>Get in Touch</title>
@@ -28,6 +42,27 @@
       <pubDate>Thu, 22 Feb 2024 14:50:02 -0500</pubDate>
       <guid>https://textprobe.io/contact/</guid>
       <description>Curious about how text mining can benefit your business? Our team is here to help, whether you&amp;rsquo;re just getting started or need expert assistance with TextProbe. We can guide you through the process, answer your questions, and show you how to unlock the power of text data.&#xA;We&amp;rsquo;re passionate about helping businesses succeed. Let&amp;rsquo;s collaborate and use proven methods to improve your text-based campaigns and drive results. We look forward to hearing from you!</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://textprobe.io/dnc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://textprobe.io/dnc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://textprobe.io/policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://textprobe.io/policy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://textprobe.io/signup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://textprobe.io/signup/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
