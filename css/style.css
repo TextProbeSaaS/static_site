@@ -27,6 +27,10 @@ h1 {
     font-size: 7vw;
 }
 
+main#page {
+    width: 65vw;
+}
+
 main#page h1 { 
     padding-top: 1vw;
     font-family: graffity;
